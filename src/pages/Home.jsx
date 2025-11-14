@@ -7,10 +7,10 @@ import { OurPolicy } from '../components/OurPolicy'
 const Home = () => {
   return (
     <div>
-        <Hero />
-        <LatextCollection/>
-        <BestSeller/>
-        <OurPolicy/>
+      <Hero />
+      <LatextCollection />
+      <BestSeller />
+      <OurPolicy />
     </div>
   )
 }
